@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">ListView_2</string>
+
+    <string-array name="id">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>張慶輝</item>
+        <item>蘇紀如</item>
+        <item>陳柏年</item>
+        <item>李勻涵</item>
+        <item>鄧兆均</item>
+        <item>李元鈞</item>
+        <item>陳政豐</item>
+        <item>游忠翰</item>
+        <item>周泰祥</item>
+        <item>徐啟芳</item>
+        <item>徐希聖</item>
+        <item>王仲愷</item>
+        <item>游騰穹</item>
+        <item>陳柔杏</item>
+        <item>廖汭禹</item>
+        <item>鄭琦蓁</item>
+        <item>黃世豪</item>
+        <item>賴建宏</item>
+        <item>李烱煜</item>
+        <item>李竑達</item>
+        <item>陳嘉方</item>
+        <item>蔡國松</item>
+        <item>葛晉鵑</item>
+        <item>張紫娟</item>
+        <item>湯益源</item>
+        <item>周昱倫</item>
+    </string-array>
+
+    <string-array name="line">
+        <item>慶輝</item>
+        <item>su kaka</item>
+        <item>柏年</item>
+        <item>勻涵</item>
+        <item>Jun</item>
+        <item>Alston(老皮)</item>
+        <item>政豐</item>
+        <item>Pippin</item>
+        <item>Kevin chou</item>
+        <item>Red_Shyu</item>
+        <item>徐希聖</item>
+        <item>王仲愷</item>
+        <item>Jason Yu</item>
+        <item>杏</item>
+        <item>汭禹</item>
+        <item>鄭琦蓁Sara</item>
+        <item>黃世豪</item>
+        <item>賴建宏</item>
+        <item>Jiong</item>
+        <item>李竑達</item>
+        <item>圓仔</item>
+        <item>Ken.Tsai</item>
+        <item>葛晉鵑</item>
+        <item>小河森堡</item>
+        <item>湯益源-wyyooqd</item>
+        <item>周昱倫</item>
+    </string-array>
+</resources>
+
